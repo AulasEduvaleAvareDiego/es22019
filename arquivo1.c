@@ -2,7 +2,7 @@
 
 void main(){
 
-  printf("Arquivo 1 do GitHub com modificação");
+  printf("Arquivo 1 do GitHub");
  
 
 }
